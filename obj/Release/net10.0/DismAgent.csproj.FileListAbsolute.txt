@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\dism\src\DismAgent\bin\Release\net10.0\dismagent.exe
+C:\Users\admin\Desktop\dism\src\DismAgent\bin\Release\net10.0\dismagent.deps.json
+C:\Users\admin\Desktop\dism\src\DismAgent\bin\Release\net10.0\dismagent.runtimeconfig.json
+C:\Users\admin\Desktop\dism\src\DismAgent\bin\Release\net10.0\dismagent.dll
+C:\Users\admin\Desktop\dism\src\DismAgent\bin\Release\net10.0\dismagent.pdb
+C:\Users\admin\Desktop\dism\src\DismAgent\obj\Release\net10.0\DismAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dism\src\DismAgent\obj\Release\net10.0\DismAgent.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dism\src\DismAgent\obj\Release\net10.0\DismAgent.AssemblyInfo.cs
+C:\Users\admin\Desktop\dism\src\DismAgent\obj\Release\net10.0\DismAgent.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dism\src\DismAgent\obj\Release\net10.0\dismagent.dll
+C:\Users\admin\Desktop\dism\src\DismAgent\obj\Release\net10.0\refint\dismagent.dll
+C:\Users\admin\Desktop\dism\src\DismAgent\obj\Release\net10.0\dismagent.pdb
+C:\Users\admin\Desktop\dism\src\DismAgent\obj\Release\net10.0\DismAgent.genruntimeconfig.cache
+C:\Users\admin\Desktop\dism\src\DismAgent\obj\Release\net10.0\ref\dismagent.dll
