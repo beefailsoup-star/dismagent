@@ -1,0 +1,5 @@
+(do ((i 1 (+ i 1)))
+    ((> i 5))
+  (display "任務 ")
+  (display i)
+  (display " 完成！\n"))
