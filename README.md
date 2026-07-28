@@ -125,3 +125,8 @@ src/
 dotnet publish src\DismAgent\DismAgent.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
 dotnet publish src\DismSetup\DismSetup.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
 ```
+
+## License
+
+This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE) file for details.
+Copyright (c) 2026 beefailsoup-star.
